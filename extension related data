@@ -1,0 +1,19 @@
+#    Types of Attacks Performed by Malicious Extensions:- 
+#         1.  Information Stealing (Infostealers
+#         2.  Adware and Malvertising
+#         3.  Phishing and Social Engineering
+#         4.  Man-in-the-Browser (MitB) Attacks  
+#         5.  Malware Delivery and Installation
+#         6.  Denial of Service (DoS) / Distributed DoS (DDoS)
+#         7.  Supply Chain Attacks
+#         8.  Trojan/virus Attacks
+
+___________________________________________________________________
+
+#     Preventing malicious browser extensions 
+#           1. Scrutinize Permissions Before Installation
+#           2. Keep Your Browser and Extensions Updated
+#           3. Use Strong Antivirus/Anti-Malware Software
+#           4. Clear Browser Cache and Cookies Regularly
+#           5. Continuous Monitoring and Auditing
+#           6. Implement Extension Allowlisting/Denylisting (Whitelisting/Blacklisting)
