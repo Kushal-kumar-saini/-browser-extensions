@@ -1,0 +1,28 @@
+#    How to Spot Potentially Harmful Browser Extensions:
+#       Malicious extensions often try to hide their true intentions. Look out for these red flag
+#       1.  Unexpected Installation
+#       2.  Sudden Browser Behavior Changes
+#       3.  Excessive Pop-up Ads
+#       4.  Unexpected Redirects 
+#       5.  Slowed Browser Performance
+#       6.  Access to cookies, authentication tokens, or personal information
+#       7.  Ability to read/write/modify web requests
+#       8.  Ability to track keystrokes (like a keylogger)
+#       9.  Access to your microphone or camera
+#       10.  Vague or Generic Names
+#       11.  Poor Reviews or Low Ratings
+#       12.  Lack of Developer Information 
+#       13.  Old or Unmaintained Extensions
+#       14.  Sideloaded Extensions
+_______________________________________________________________________________________________________________________
+
+#    Steps how to Remove Potentially Harmful Browser Extensions:-
+#      1. Open Your Browser's Extension Manager from the browser click on the three dots (menu) > More Tools > Extensions, or type chrome://extensions/ in the address bar.
+#      2. Go to Chrome extension and then view extension.
+#      3. Identify and Remove Suspicious Extensions.
+#      4. Restart Your Browser to ensure that the changes apply on that.
+#      5. Check Browser Notifications and Permissions.
+#      6. Clear Browser Cache and Cookies to enhance security.
+#      7. Scan Your System for Malware and install the antivirus.
+#      8. Update Your Browser and install additional security tools.
+
